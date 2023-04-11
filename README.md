@@ -1,6 +1,7 @@
 # mysql-diagnostics.sh
 
- SETTINGS
+ This shell script used to collect mysql status information for further diagnostic, all collected information will be saved under `${HOME}/mysql_stats/` folder. 
+ 
  PLEASE SET VARIABLES BELOW
  
  RDSUSER requires at least a PROCESS PRIVILEGE
